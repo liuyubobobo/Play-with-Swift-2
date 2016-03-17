@@ -22,7 +22,7 @@
       * [06-1 where in switch](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/06-1-where-in-switch.playground/Contents.swift)
       * [06-2 if case where](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/06-2-if-case-where.playground/Contents.swift)
       * [06-3 for case where](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/06-3-for-case-where.playground/Contents.swift)  
-   * 4-7 ``guard`` and Code Style of Swift **Course Video**
+   * 4-7 ``guard`` and Code Style of Swift [**Course Video**]((http://t.imooc.com/video/11442))
       * [07 guard](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/07-guard.playground/Contents.swift)
 
 ---
@@ -49,5 +49,5 @@
       * [06-1 在switch中使用where](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/06-1-where-in-switch.playground/Contents.swift)
       * [06-2 if case where](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/06-2-if-case-where.playground/Contents.swift)
       * [06-3 for case where](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/06-3-for-case-where.playground/Contents.swift)
-   * 4-7 guard 及代码风格初探 **课程视频**
+   * 4-7 guard 及代码风格初探 [**课程视频**]((http://t.imooc.com/video/11442))
       * [07 guard](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/04-Control-Flow/07-guard.playground/Contents.swift)
