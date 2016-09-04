@@ -14,7 +14,7 @@ func findMaxAndMin( numbers: [Int] ) -> ( max:Int , min:Int )?{
     
     // 使用guard，让特殊情况拥有语意性
     
-    // 正向邏輯：guard number.count > 0
+    // 正向逻辑：guard number.count > 0
     guard !numbers.isEmpty else{
         return nil
     }
