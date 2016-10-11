@@ -8,12 +8,14 @@ import UIKit
 // 对数组为空的情况，返回nil
 func findMaxAndMin( numbers: [Int] ) -> ( max:Int , min:Int )?{
     
-    //if !numbers.isEmpty{
+    //if numbers.isEmpty{
     //    return nil
     //}
     
     // 使用guard，让特殊情况拥有语意性
-    guard numbers.isEmpty else{
+    
+    // 正向逻辑：guard number.count > 0
+    guard !numbers.isEmpty else{
         return nil
     }
     

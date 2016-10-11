@@ -1,8 +1,14 @@
----
+##重要更新
+
+本课程的所有示例代码已经基于最新的 **Swift3** 版本进行了升级。更新后的示例代码请参见项目： [**Play with Swift 3**](https://github.com/liuyubobobo/Play-with-Swift-3)
+
+https://github.com/liuyubobobo/Play-with-Swift-3
 
 对swift感兴趣的同学，欢迎加我的个人微信：**liuyubobobo**（头像和github一致），一起加入swift微信群讨论：）请注明：**swift交流**
 
---- 
+**以下内容为原课程swift2代码，已停止更新。**
+
+---
 
 ##Play with Swift 2 - 玩儿转 Swift 2
 
@@ -274,9 +280,137 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 15-5 Convenience Initializer and Designated Initializer [**Course Video**](http://t.imooc.com/video/11927)
       * [Convenience Initializer and Designated Initializer](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/15-Inheritance-and-Initialization/05-Convenient-and-Designated-Initializer.playground/Contents.swift)
 
+* **Chapter Sixteen: Documentation** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/16-Documentation)
+
+   * 16-1 Markdown Basics [**Course Video**](http://t.imooc.com/video/12028)
+      * [Markdown Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/01-Markdown-Basics.playground/Contents.swift)
+   * 16-2 Parameters, Returns and Throws in Documentation [**Course Video**](http://t.imooc.com/video/12029)
+      * [Parameters, Returns and Throws in Documentation](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/02-Parameters-Returns-and-Throws-in-documentation.playground/Contents.swift)
+   * 16-3 More Documentation Keywords [**Course Video**](http://t.imooc.com/video/12030)
+      * [Algorithm Related Keywords in Documentation](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/03-1-Algorithm-Related-Keywords-in-documentation.playground/Contents.swift)
+      * [Meta Information in Documentation](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/03-2-Meta-Information-in-Documentation.playground/Contents.swift)
+   * 16-4 MARK, TODO and FIXME [**Course Video**](http://t.imooc.com/video/12031)
+      * [MARK, TODO and FIXME](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/04-MARK-TODO-FIXME.playground/Contents.swift)
+
+---
+
+### **Season Four**
+   
+* **Chapter Seventeen: Subscript and Operator Overloading** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/17-Subscript-and-Operator-Overloading)
+
+   * 17-1 Subscript Basics [**Course Video**](http://t.imooc.com/video/12051)
+   		* [Subscript Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/01-Subscript-Basics.playground/Contents.swift)
+   * 17-2 Subscript with More Dimensions [**Course Video**](http://t.imooc.com/video/12052)
+      * [Subscript with More Dimensions](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/02-Subscript-More-Dimensions.playground/Contents.swift)
+   * 17-3 Operator Overloading Basics [**Course Video**](http://t.imooc.com/video/12053)
+      * [Operator Overloading Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/03-Operatore-Overloading-Basics.playground/Contents.swift)
+   * 17-4 Overloading Comparison Operator [**Course Video**](http://t.imooc.com/video/12054)
+      * [Overloading Comparison Operator](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/04-Overloading-Comparison-Operator.playground/Contents.swift)
+   * 17-5 Custome Operator [**Course Video**](http://t.imooc.com/video/12055)
+      * [Custome Operator](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/05-Custom-Operatore.playground/Contents.swift)
+
+* **Chapter Eighteen: Extension and Generic** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/18-Extension-Generic)
+
+   * 18-1 Extension Basics [**Course Video**](http://t.imooc.com/video/12056)
+   		* [Extension Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/01-Extension-Basics.playground/Contents.swift)
+   * 18-2 Nest Types [**Course Video**](http://t.imooc.com/video/12057)
+      * [Nest Types Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/02-1-Nest-Type.playground/Contents.swift)
+      * [Nest Types in Extension](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/02-2-Nest-Type-in-Extension.playground/Contents.swift)
+   * 18-3 Extending Buildin Library [**Course Video**](http://t.imooc.com/video/12058)
+      * [Extending Buildin Library](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/03-Extend-Build-in-Library.playground/Contents.swift)
+   * 18-4 Generic Functions [**Course Video**](http://t.imooc.com/video/12059)
+      * [Generic Functions](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/04-Generic-Function.playground/Contents.swift)
+   * 18-5 Generic Types [**Course Video**](http://t.imooc.com/video/12060)
+      * [Generic Types](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/05-Generic-Type.playground/Contents.swift)
+
+* **Chapter Nineteen: Protocol** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/19-Protocol)
+
+   * 19-1 Protocol Basics [**Course Video**](http://t.imooc.com/video/12061)
+   		* [Protocol Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/01-Protocol-Basics.playground/Contents.swift)
+   * 19-2 Protocol and Initializers [**Course Video**](http://t.imooc.com/video/12062)
+      * [Protocol and Initializers](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/02-Protocol-and-Initializaers.playground/Contents.swift)
+   * 19-3 Why Protocols [**Course Video**](http://t.imooc.com/video/12063)
+      * [The Problems of Class](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/03-1-The-Problems-of-Class.playground/Contents.swift)
+      * [Conforming Mutiple Protocols](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/03-2-Conforming-Multiple-Protocols.playground/Contents.swift)
+   * 19-4 ``typealias`` and ``associatetype`` [**Course Video**](http://t.imooc.com/video/12064)
+      * [``typealias``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/04-1-Typealias.playground/Contents.swift)
+      * [``typealias`` in Protocols](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/04-2-Typealias-in-Protocol.playground/Contents.swift)
+   * 19-5 Useful Protocols in Standard Library [**Course Video**](http://t.imooc.com/video/12065)
+      * [``Equatable`` and ``Comparisable``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/05-1-Equatable-and-Comparisable.playground/Contents.swift)
+      * [Other Protocols in Standard Library](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/05-2-Other-Protocol-in-Standard-Library.playground/Contents.swift)
+
+* **Chapter Twenty: Protocol-Oriented Programming** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/20-Protocol-Oriented-Programming)
+
+   * 20-1 Protocol Extension and Default Implementations [**Course Video**](http://t.imooc.com/video/12066)
+   		* [Protocol Extension and Default Implementations](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/01-Protocol-Extension-and-Default-Implementation.playground/Contents.swift)
+   * 20-2 Protocol Extension Dispatching [**Course Video**](http://t.imooc.com/video/12067)
+      * [Protocol Extension Dispatching](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/02-Protocol-Extension-Dispatching.playground/Contents.swift)
+   * 20-3 Protocol Composite [**Course Video**](http://t.imooc.com/video/12068)
+      * [Protocol Composite](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/03-Protocol-Composite.playground/Contents.swift)
+   * 20-4 Generic Constraints [**Course Video**](http://t.imooc.com/video/12069)
+      * [Generic Constraints](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/04-Generic-Constraint.playground/Contents.swift)
+   * 20-5 Swift is a Protocol Oriented Programming Language [**Course Video**](http://t.imooc.com/video/12070)
+      * [Swift is a Protocol Oriented Programming Language](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/05-Swift-is-Protocol-Oriented.playground/Contents.swift)
+   * 20-6 Delegation in UIKit [**Course Video**](http://t.imooc.com/video/12071)
+      * [Delegation in UIKit](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/20-Protocol-Oriented-Programming/06-Delegation-in-UIKit)
+   * 20-7 Delegation in Practice [**Course Video**](http://t.imooc.com/video/12072)
+      * [Delegation in Practice](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/07-Delegation-in-Practice.playground/Contents.swift)
+   * 20-8 Optional Protocol Requirements [**Course Video**](http://t.imooc.com/video/12073)
+      * [Optional Protocol Requirements](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/08-Optional-Protocol-Requirements.playground/Contents.swift)
+
+* **Chapter Twenty-One: Error Handling** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/21-Error-Handling)
+
+   * 21-1 Exit the Programming Forcefully [**Course Video**](http://t.imooc.com/video/12074)
+   		* [Exit the Programming Forcefully](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/01-1-Exit-the-Program-Forcfully.playground/Contents.swift)
+   		* [``assert`` in Action](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/01-2-Assert-in-Action.playground/Contents.swift)
+   * 21-2 Error Type [**Course Video**](http://t.imooc.com/video/12075)
+      * [Error Type](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/02-Error-Type.playground/Contents.swift)
+   * 21-3 Error Handling [**Course Video**](http://t.imooc.com/video/12076)
+      * [Error Handling](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/03-Error-Handling.playground/Contents.swift)
+   * 21-4 ``defer`` [**Course Video**](http://t.imooc.com/video/12077)
+      * [``defer``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/04-defer.playground/Contents.swift)
+
+* **Chapter Twenty-Two: Memory Management** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/22-Memory-Management)
+
+   * 22-1 ``deinit`` [**Course Video**](http://t.imooc.com/video/12660)
+   		* [``deinit``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/01-deinit.playground/Contents.swift)
+   * 22-2 Reference Count and ARC [**Course Video**](http://t.imooc.com/video/12661)
+      * [Reference Count](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/02-1-Reference-Count.playground/Contents.swift)
+      * [ARC Basics](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/02-2-ARC-Basics.playground/Contents.swift)
+   * 22-3 Strong Reference Cycle and ``weak`` [**Course Video**](http://t.imooc.com/video/12662)
+      * [Strong Reference Cycle](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/03-1-Strong-Reference-Cycles.playground/Contents.swift)
+      * [``weak``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/03-2-Use-weak.playground/Contents.swift)
+   * 22-4 ``unowned`` [**Course Video**](http://t.imooc.com/video/12663)
+      * [``unowned``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/04-Use-unowned.playground/Contents.swift)
+   * 22-5 Using Implicity Unwrapped Optional Property [**Course Video**](http://t.imooc.com/video/12664)
+      * [Using Implicity Unwrapped Optional Property](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/05-Implicitly-Unwrapped-Optional-Property.playground/Contents.swift)
+   * 22-6 Strong Reference Cycles in Closures [**Course Video**](http://t.imooc.com/video/12665)
+      * [Strong Reference Cycles in Closures](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/06-1-Strong-Reference-Cycles-for-Closures.playground/Contents.swift)
+			* [Not All Closures Have Memory Problems 1](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/06-2-Not-All-Closures-Have-Memory-Problems-1.playground/Contents.swift)
+			* [Not All Closures Have Memory Problems 2](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/06-3-Not-All-Closures-Have-Memory-Problems-2.playground/Contents.swift)
+   * 22-7 Resolving Strong Reference Cycles for Closures [**Course Video**](http://t.imooc.com/video/12666)
+      * [Resolving Strong Reference Cycles for Closures](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/07-Resolving-Strong-Reference-Cycles-for-Closures.playground/Contents.swift) 
+
+* **Chapter Twenty-Three: Type Casting** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/23-Type-Casting)
+
+   * 23-1 Type Checking [**Course Video**](http://t.imooc.com/video/12667)
+   		* [Type Checking](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/01-Checking-Type.playground/Contents.swift)
+   * 23-2 Downcasting [**Course Video**](http://t.imooc.com/video/12668)
+      * [Downcasting](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/02-Downcasting.playground/Contents.swift)
+   * 23-3 Type Casting for Protocol Conformation [**Course Video**](http://t.imooc.com/video/12669)
+      * [Type Casting for Protocol Conformation](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/03-Type-Casting-for-Protocol-Conformation.playground/Contents.swift)
+   * 23-4 ``NSObject``, ``AnyObject`` and ``Any`` [**Course Video**](http://t.imooc.com/video/12670)
+      * [``NSObject``, ``AnyObject`` and ``Any``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/04-NSObject-AnyObject-and-Any.playground/Contents.swift)
+
+* **Chapter Twenty-Four: The Ending**
+
+   * 24-1 Hello, Swift3! [**Course Video**](http://t.imooc.com/video/12671)
+   * 24-2 What's Next? [**Course Video**](http://t.imooc.com/video/12672)
+      
 ---
 
 ###**第一季**
+
 * **第一章：玩儿转 Swift 2** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/01-Introduction)
    * 1-1 让我们一起玩儿转Swift [**课程视频**](http://t.imooc.com/video/11387)
    * 1-2 Swift语言和iOS开发 [**课程视频**](http://t.imooc.com/video/11388)
@@ -513,3 +647,144 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
       * [两段式构造](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/15-Inheritance-and-Initialization/04-Two-Phase-Initialization.playground/Contents.swift)
    * 15-5 便利构造函数与指定构造函数 [**课程视频**](http://t.imooc.com/video/11927)
       * [便利构造函数与指定构造函数](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/15-Inheritance-and-Initialization/05-Convenient-and-Designated-Initializer.playground/Contents.swift)
+
+* **第十六章: 文档注释** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/16-Documentation)
+
+   * 16-1 Markdown基础 [**课程视频**](http://t.imooc.com/video/12028)
+      * [Markdown基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/01-Markdown-Basics.playground/Contents.swift)
+   * 16-2 在文档中使用 Parameters, Returns 和 Throws 关键字 [**课程视频**](http://t.imooc.com/video/12029)
+      * [在文档中使用 Parameters, Returns 和 Throws 关键字](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/02-Parameters-Returns-and-Throws-in-documentation.playground/Contents.swift)
+   * 16-3 更多文档关键字 [**课程视频**](http://t.imooc.com/video/12030)
+      * [算法相关关键字](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/03-1-Algorithm-Related-Keywords-in-documentation.playground/Contents.swift)
+      * [文档注释中的元信息](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/03-2-Meta-Information-in-Documentation.playground/Contents.swift)
+   * 16-4 MARK, TODO 和 FIXME [**课程视频**](http://t.imooc.com/video/12031)
+      * [MARK, TODO 和 FIXME](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/16-Documentation/04-MARK-TODO-FIXME.playground/Contents.swift)
+
+---
+
+### **第四季**
+   
+* **第十七章: 下标和运算符重载** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/17-Subscript-and-Operator-Overloading)
+
+   * 17-1 下标基础 [**课程视频**](http://t.imooc.com/video/12051)
+   		* [下标基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/01-Subscript-Basics.playground/Contents.swift)
+   * 17-2 多维下标 [**课程视频**](http://t.imooc.com/video/12052)
+      * [多维下标](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/02-Subscript-More-Dimensions.playground/Contents.swift)
+   * 17-3 运算符重载基础 [**课程视频**](http://t.imooc.com/video/12053)
+      * [运算符重载基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/03-Operatore-Overloading-Basics.playground/Contents.swift)
+   * 17-4 重载比较运算符 [**课程视频**](http://t.imooc.com/video/12054)
+      * [重载比较运算符](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/04-Overloading-Comparison-Operator.playground/Contents.swift)
+   * 17-5 自定义运算符 [**课程视频**](http://t.imooc.com/video/12055)
+      * [自定义运算符](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/17-Subscript-and-Operator-Overloading/05-Custom-Operatore.playground/Contents.swift)
+
+* **第十八章: 扩展和泛型** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/18-Extension-Generic)
+
+   * 18-1 扩展基础 [**课程视频**](http://t.imooc.com/video/12056)
+   		* [扩展基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/01-Extension-Basics.playground/Contents.swift)
+   * 18-2 嵌套类型 [**课程视频**](http://t.imooc.com/video/12057)
+      * [嵌套类型基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/02-1-Nest-Type.playground/Contents.swift)
+      * [扩展中的嵌套类型](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/02-2-Nest-Type-in-Extension.playground/Contents.swift)
+   * 18-3 扩展Swift标准库 [**课程视频**](http://t.imooc.com/video/12058)
+      * [扩展Swift标准库](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/03-Extend-Build-in-Library.playground/Contents.swift)
+   * 18-4 泛型函数 [**课程视频**](http://t.imooc.com/video/12059)
+      * [泛型函数](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/04-Generic-Function.playground/Contents.swift)
+   * 18-5 泛型类型 [**课程视频**](http://t.imooc.com/video/12060)
+      * [泛型类型](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/18-Extension-Generic/05-Generic-Type.playground/Contents.swift)
+
+* **第十九章: 协议** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/19-Protocol)
+
+   * 19-1 协议基础 [**课程视频**](http://t.imooc.com/video/12061)
+   		* [协议基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/01-Protocol-Basics.playground/Contents.swift)
+   * 19-2 协议和构造函数 [**课程视频**](http://t.imooc.com/video/12062)
+      * [协议和构造函数](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/02-Protocol-and-Initializaers.playground/Contents.swift)
+   * 19-3 为什么使用协议？ [**课程视频**](http://t.imooc.com/video/12063)
+      * [使用类的问题](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/03-1-The-Problems-of-Class.playground/Contents.swift)
+      * [遵守多个协议](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/03-2-Conforming-Multiple-Protocols.playground/Contents.swift)
+   * 19-4 ``typealias`` 和 ``associatetype`` [**课程视频**](http://t.imooc.com/video/12064)
+      * [``typealias``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/04-1-Typealias.playground/Contents.swift)
+      * [在协议中使用 ``typealias``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/04-2-Typealias-in-Protocol.playground/Contents.swift)
+   * 19-5 标准库中的常用协议 [**课程视频**](http://t.imooc.com/video/12065)
+      * [``Equatable`` 和 ``Comparisable``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/05-1-Equatable-and-Comparisable.playground/Contents.swift)
+      * [其他标准库中的常用协议](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/19-Protocol/05-2-Other-Protocol-in-Standard-Library.playground/Contents.swift)
+
+* **第二十章: 面向协议的编程** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/20-Protocol-Oriented-Programming)
+
+   * 20-1 协议扩展和默认实现 [**课程视频**](http://t.imooc.com/video/12066)
+   		* [协议扩展和默认实现](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/01-Protocol-Extension-and-Default-Implementation.playground/Contents.swift)
+   * 20-2 面向协议编程 [**课程视频**](http://t.imooc.com/video/12067)
+      * [面向协议编程](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/02-Protocol-Extension-Dispatching.playground/Contents.swift)
+   * 20-3 协议聚合 [**课程视频**](http://t.imooc.com/video/12068)
+      * [协议聚合](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/03-Protocol-Composite.playground/Contents.swift)
+   * 20-4 泛型约束 [**课程视频**](http://t.imooc.com/video/12069)
+      * [泛型约束](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/04-Generic-Constraint.playground/Contents.swift)
+   * 20-5 Swift是面向协议的编程语言 [**课程视频**](http://t.imooc.com/video/12070)
+      * [Swift是面向协议的编程语言](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/05-Swift-is-Protocol-Oriented.playground/Contents.swift)
+   * 20-6 UIKit中的委托模式 [**课程视频**](http://t.imooc.com/video/12071)
+      * [UIKit中的委托模式](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/20-Protocol-Oriented-Programming/06-Delegation-in-UIKit)
+   * 20-7 创建自己的委托模式 [**课程视频**](http://t.imooc.com/video/12072)
+      * [创建自己的委托模式](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/07-Delegation-in-Practice.playground/Contents.swift)
+   * 20-8 可选的协议方法 [**课程视频**](http://t.imooc.com/video/12073)
+      * [可选的协议方法](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/20-Protocol-Oriented-Programming/08-Optional-Protocol-Requirements.playground/Contents.swift)
+
+* **第二十一章: 错误处理** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/21-Error-Handling)
+
+   * 21-1 强制退出程序 [**课程视频**](http://t.imooc.com/video/12074)
+   		* [强制退出程序](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/01-1-Exit-the-Program-Forcfully.playground/Contents.swift)
+   		* [使用 ``assert``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/01-2-Assert-in-Action.playground/Contents.swift)
+   * 21-2 错误类型 [**课程视频**](http://t.imooc.com/video/12075)
+      * [错误类型](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/02-Error-Type.playground/Contents.swift)
+   * 21-3 错误处理 [**课程视频**](http://t.imooc.com/video/12076)
+      * [错误处理](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/03-Error-Handling.playground/Contents.swift)
+   * 21-4 ``defer`` [**课程视频**](http://t.imooc.com/video/12077)
+      * [``defer``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/21-Error-Handling/04-defer.playground/Contents.swift)
+
+* **第二十二章: 内存管理** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/22-Memory-Management)
+
+   * 22-1 ``deinit`` [**课程视频**](http://t.imooc.com/video/12660)
+   		* [``deinit``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/01-deinit.playground/Contents.swift)
+   * 22-2 引用计数和ARC [**课程视频**](http://t.imooc.com/video/12661)
+      * [引用计数](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/02-1-Reference-Count.playground/Contents.swift)
+      * [ARC基础](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/02-2-ARC-Basics.playground/Contents.swift)
+   * 22-3 强引用循环和``weak`` [**课程视频**](http://t.imooc.com/video/12662)
+      * [强引用循环](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/03-1-Strong-Reference-Cycles.playground/Contents.swift)
+      * [``weak``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/03-2-Use-weak.playground/Contents.swift)
+   * 22-4 ``unowned`` [**课程视频**](http://t.imooc.com/video/12663)
+      * [``unowned``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/04-Use-unowned.playground/Contents.swift)
+   * 22-5 使用隐式可选型 [**课程视频**](http://t.imooc.com/video/12664)
+      * [使用隐式可选型](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/05-Implicitly-Unwrapped-Optional-Property.playground/Contents.swift)
+   * 22-6 闭包中的强引用循环 [**课程视频**](http://t.imooc.com/video/12665)
+      * [闭包中的强引用循环](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/06-1-Strong-Reference-Cycles-for-Closures.playground/Contents.swift)
+      * [并非所有闭包都有内存问题 1](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/06-2-Not-All-Closures-Have-Memory-Problems-1.playground/Contents.swift)
+      * [并非所有闭包都有内存问题 2](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/06-3-Not-All-Closures-Have-Memory-Problems-2.playground/Contents.swift)
+   * 22-7 解决闭包中的强引用循环 [**课程视频**](http://t.imooc.com/video/12666)
+      * [解决闭包中的强引用循环](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/22-Memory-Management/07-Resolving-Strong-Reference-Cycles-for-Closures.playground/Contents.swift) 
+
+* **第二十三章: 类型转换** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/23-Type-Casting)
+
+   * 23-1 类型检查 [**课程视频**](http://t.imooc.com/video/12667)
+   		* [Type Checking](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/01-Checking-Type.playground/Contents.swift)
+   * 23-2 类型转化 [**课程视频**](http://t.imooc.com/video/12668)
+      * [Downcasting](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/02-Downcasting.playground/Contents.swift)
+   * 23-3 检查协议遵守 [**课程视频**](http://t.imooc.com/video/12669)
+      * [Type Casting for Protocol Conformation](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/03-Type-Casting-for-Protocol-Conformation.playground/Contents.swift)
+   * 23-4 ``NSObject``, ``AnyObject`` 和 ``Any`` [**课程视频**](http://t.imooc.com/video/12670)
+      * [``NSObject``, ``AnyObject`` and ``Any``](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/23-Type-Casting/04-NSObject-AnyObject-and-Any.playground/Contents.swift)
+
+* **第二十四章: 结语**
+
+   * 24-1 迎接 Swift3 [**Course Video**](http://t.imooc.com/video/12671)
+   * 24-2 学完Swift语言之后，应该学什么？大家加油！ [**Course Video**](http://t.imooc.com/video/12672)
+
+---
+
+## Contributors and Acknowledgements 贡献者.致谢
+
+感谢每一名学习这个课程的同学。感谢每一名在慕课网留言的同学。批评也好，鼓励也罢，都是对我的肯定：）
+
+特别感谢以下github用户，帮助完善了这个课程的代码：
+
+* [leavie](https://github.com/leavie)
+
+最后，感谢这个时代。
+
+---
